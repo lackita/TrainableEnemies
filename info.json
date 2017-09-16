@@ -1,0 +1,11 @@
+{
+    "name": "TrainableEnemies",
+    "version": "0.1.0",
+    "title": "Trainable Enemies",
+    "author": "Colin Williams",
+    "contact": "lackita@gmail.com",
+    "homepage": "http://colinwilliams.name",
+    "factorio_version": "0.15",
+    "dependencies": ["base >= 0.15"],
+    "description": "This mod allows you to train enemies to aid in logistics."
+}
